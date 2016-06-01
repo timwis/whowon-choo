@@ -1,0 +1,20 @@
+{
+  "name": "whowon",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo . --live --css 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "choo": "^2.1.4",
+    "firebase": "^3.0.3",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
